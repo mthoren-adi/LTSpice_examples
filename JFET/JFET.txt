@@ -1,0 +1,1 @@
+.model 2SK932_22 NJF(Beta=66m Rd=10 Rs=10 Lambda=20m Vto=-.48 Is=10f Cgd=5.5p M=.36 PB=1.5 Fc=.5 Cgs=10p)
